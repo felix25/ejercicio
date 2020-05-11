@@ -1,0 +1,25 @@
+{
+    "development": {
+        "username": "admin",
+        "password": "Luis@123456",
+        "database": "bd_app",
+        "host": "127.0.0.1",
+        "dialect": "mysql",
+        "operatorAliases": false,
+        "logging": false
+    },
+    "test": {
+        "username": "admin",
+        "password": "Luis@123456",
+        "database": "bd_app_test",
+        "host": "127.0.0.1",
+        "dialect": "mysql"
+    },
+    "production": {
+        "username": "",
+        "password": null,
+        "database": "",
+        "host": "127.0.0.1",
+        "dialect": "mysql"
+    }
+}
